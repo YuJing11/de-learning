@@ -1,1 +1,2 @@
 Here are the three git command I learned today: git add, git commit, git log, git log --oneline
+These are some addition git command learnt = git diff, git status
