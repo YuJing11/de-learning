@@ -1,10 +1,14 @@
-# de-learning 
-This repo is for data engineering learning purpose
+# de-learning
+
+Notes, exercises, and practice code from my journey into data engineering.
 
 ## Content
-- python: the file that store the python code I learnt 
-- sql: the file that store the sql code I learnt
-- note.txt: the note I use to jote down the knowledge points
+
+- `python/` — Python scripts and exercises
+- `sql/` — SQL practice queries
+- `notes.txt` — Study notes
 
 ## Current Progress
-Learning the correct way to use github
+
+**Stage 0 — Environment and tooling**
+Command line basics, Git fundamentals, GitHub workflow.
