@@ -11,4 +11,4 @@ Notes, exercises, and practice code from my journey into data engineering.
 ## Current Progress
 
 **Stage 0 — Environment and tooling**
-Command line basics, Git fundamentals, GitHub workflow.
+Command line basics, Git fundamentals, GitHub workflow, Way to merge the branch and main.
