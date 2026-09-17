@@ -5,8 +5,8 @@ Notes, exercises, and practice code from my journey into data engineering.
 ## Content
 
 - `python/` — Python scripts and exercises
-- `sql/` — SQL practice queries  
-- `notes.txt` — Study notes   
+- `sql/` — SQL practice queries
+- `notes.txt` — Study notes
 
 ## Current Progress
 
