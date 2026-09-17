@@ -12,3 +12,7 @@ Notes, exercises, and practice code from my journey into data engineering.
 
 **Stage 0 — Environment and tooling**
 Command line basics, Git fundamentals, GitHub workflow, Way to merge the branch and main.
+
+## Progress
+
+See [progress.md](progress.md) for detailed learning log.
